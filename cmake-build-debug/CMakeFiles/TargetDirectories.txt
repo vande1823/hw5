@@ -1,0 +1,3 @@
+C:/Users/vande/CLionProjects/hw5-q1c.cpp/cmake-build-debug/CMakeFiles/hw5_q1c_cpp.dir
+C:/Users/vande/CLionProjects/hw5-q1c.cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vande/CLionProjects/hw5-q1c.cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
