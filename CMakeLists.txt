@@ -3,4 +3,4 @@ project(hw5_q1c_cpp)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(hw5_q1c_cpp main.cpp)
+add_executable(hw5_q1c_cpp hw5_q1c_.cpp)
